@@ -1,0 +1,13 @@
+{ 
+  "name": "Relax and Recharge - Tier 3", 
+  "description": "Tier 3 token of Relax and Recharge Offering by Moojo",
+  "external_url": "https://www.moojo.xyz/",
+  "image": "https://ipfs.filebase.io/ipfs/QmXFd34etxJYuDLfBH4HjJUeCfMQ2ZcCSGWX3R4xKNrFtz",
+  "attributes": [
+    {
+      "trait_type": "Level", 
+      "value": 3,
+      "max_value": 5
+    }
+  ]
+}
