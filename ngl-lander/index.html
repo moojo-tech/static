@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Button and Input Example</title>
+    <style>
+      /* Some basic styling for layout */
+      body {
+        font-family: Arial, sans-serif;
+        text-align: left;
+      }
+      input[type='text'] {
+        width: 80%;
+      }
+      button {
+        padding: 10px 20px;
+        cursor: pointer;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+      }
+      button:hover {
+        background-color: #0056b3;
+      }
+      #form_container {
+        margin: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-items: end;
+        gap: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>NGL - Deep Landing</h2>
+    <div id="form_container">
+      <div>Query params to be copied:</div>
+      <input type="text" id="input_params" />
+      <div>
+        <button id="btn_cp">Copy Args</button>
+        <button id="btn_appstore">Go to AppStore and Copy Args</button>
+      </div>
+      <div style="display: none" id="status">✅</div>
+    </div>
+    <script>
+      const input = document.getElementById('input_params')
+      const status = document.getElementById('status')
+      const doCopy = () => {
+        navigator.clipboard.writeText(input.value)
+        status.style.display = 'block'
+        setTimeout(() => {
+          status.style.display = 'none'
+        }, 3000)
+      }
+
+      input.value = 'ngl_cp=true' + (location.search ? '&' + location.search.substring(1) : '')
+
+      document.getElementById('btn_cp').onclick = () => {
+        doCopy()
+      }
+
+      document.getElementById('btn_appstore').onclick = () => {
+        doCopy()
+        location.href = 'https://apps.apple.com/us/app/ngl-cashback-app-rewards/id6477439961'
+      }
+    </script>
+  </body>
+</html>
