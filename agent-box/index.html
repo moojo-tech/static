@@ -605,32 +605,35 @@
 
     // Define ad units - update these with your actual ad unit configurations from Pubwise
     var adUnits = [
+      // {
+      //   code: 'div-prebid-leaderboard-top',
+      //   mediaTypes: {
+      //     banner: {
+      //       sizes: [[728, 90], [970, 90], [320, 50]]
+      //     }
+      //   },
+      //   bids: [{
+      //     bidder: 'pwbid',
+      //     params: {
+      //       siteId: "6e56b8",
+      //       isTest: true
+      //     }
+      //   }]
+      // },
       {
-        code: 'div-prebid-leaderboard-top',
+        code: 'div-prebid-rectangle-1',
         mediaTypes: {
           banner: {
-            sizes: [[728, 90], [970, 90], [320, 50]]
+            sizes: [[300, 250], [336, 280]]
           }
         },
         bids: [{
           bidder: 'pwbid',
           params: {
             siteId: "6e56b8",
-            isTest: true
           }
         }]
       },
-      // {
-      //   code: 'div-prebid-rectangle-1',
-      //   mediaTypes: {
-      //     banner: {
-      //       sizes: [[300, 250], [336, 280]]
-      //     }
-      //   },
-      //   bids: [
-      //     // Add your bidder configurations here
-      //   ]
-      // },
       // {
       //   code: 'div-prebid-rectangle-2',
       //   mediaTypes: {
@@ -659,7 +662,11 @@
 
     // Simple custom implementation to render ads
     function renderAllAds() {
-      var adUnitCodes = ['div-prebid-leaderboard-top', 'div-prebid-rectangle-1', 'div-prebid-rectangle-2'];
+      var adUnitCodes = [
+        // 'div-prebid-leaderboard-top', 
+        'div-prebid-rectangle-1', 
+        // 'div-prebid-rectangle-2'
+      ];
 
       adUnitCodes.forEach(function (adUnitCode) {
         renderAd(adUnitCode);
@@ -709,7 +716,11 @@
     setInterval(function () {
       pbjs.que.push(function () {
         pbjs.requestBids({
-          adUnitCodes: ['div-prebid-leaderboard-top', 'div-prebid-rectangle-1', 'div-prebid-rectangle-2'],
+          adUnitCodes: [
+            // 'div-prebid-leaderboard-top', 
+            'div-prebid-rectangle-1', 
+            // 'div-prebid-rectangle-2'
+          ],
           bidsBackHandler: function () {
             renderAllAds();
           }
@@ -781,9 +792,9 @@
   </div>
 
   <!-- Top Leaderboard Ad -->
-  <div class="container">
+  <!-- <div class="container">
     <div id="div-prebid-leaderboard-top" class="ad-unit leaderboard"></div>
-  </div>
+  </div> -->
 
   <section class="hero-banner">
     <div class="container">
@@ -1004,9 +1015,9 @@
   </section>
 
   <!-- Second Medium Rectangle Ad -->
-  <div class="container">
+  <!-- <div class="container">
     <div id="div-prebid-rectangle-2" class="ad-unit medium-rectangle"></div>
-  </div>
+  </div> -->
 
   <section class="newsletter">
     <div class="container">
