@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Electronics Store Product Feed</title>
+    <link>https://electronics-store.com</link>
+    <description>Premium electronics and accessories from top brands</description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 30 Jun 2025 10:00:00 GMT</lastBuildDate>
+    
+    <item>
+      <g:id>AP001</g:id>
+      <title>iPhone 15 Pro 128GB</title>
+      <description>Latest iPhone with titanium design and advanced camera system. Features A17 Pro chip and USB-C connectivity.</description>
+      <g:brand>Apple</g:brand>
+      <g:product_type>Mobile Phones</g:product_type>
+      <g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phones</g:google_product_category>
+      <g:price>999.00 USD</g:price>
+      <g:sale_price>899.00 USD</g:sale_price>
+      <g:sale_price_effective_date>2025-07-15T00:00-0800/2025-07-31T23:59-0800</g:sale_price_effective_date>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <link>https://electronics-store.com/iphone-15-pro-128gb</link>
+      <g:image_link>https://images.store.com/iphone15pro.jpg</g:image_link>
+      <g:mpn>MU183LL/A</g:mpn>
+      <g:gtin>0194253816317</g:gtin>
+      <g:color>Natural Titanium</g:color>
+      <g:size>128GB</g:size>
+      <g:weight>187g</g:weight>
+      <g:custom_label_0>Premium</g:custom_label_0>
+    </item>
+    
+    <item>
+      <g:id>AP002</g:id>
+      <title>AirPods Pro 2nd Gen</title>
+      <description>Premium wireless earbuds with active noise cancellation and spatial audio. Includes MagSafe charging case.</description>
+      <g:brand>Apple</g:brand>
+      <g:product_type>Audio</g:product_type>
+      <g:google_product_category>Electronics &gt; Audio &gt; Audio Players &amp; Recorders &gt; Headphones</g:google_product_category>
+      <g:price>249.00 USD</g:price>
+      <g:sale_price>229.00 USD</g:sale_price>
+      <g:sale_price_effective_date>2025-07-01T00:00-0800/2025-07-15T23:59-0800</g:sale_price_effective_date>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <link>https://electronics-store.com/airpods-pro-2nd-gen</link>
+      <g:image_link>https://images.store.com/airpodspro2.jpg</g:image_link>
+      <g:mpn>MTJV3AM/A</g:mpn>
+      <g:gtin>0194253397823</g:gtin>
+      <g:color>White</g:color>
+      <g:weight>50.8g</g:weight>
+      <g:custom_label_0>Premium</g:custom_label_0>
+    </item>
+    
+    <item>
+      <g:id>AP003</g:id>
+      <title>MacBook Air 13-inch M3</title>
+      <description>Ultra-thin laptop with M3 chip and all-day battery life. Perfect for students and professionals.</description>
+      <g:brand>Apple</g:brand>
+      <g:product_type>Laptops</g:product_type>
+      <g:google_product_category>Electronics &gt; Computers &gt; Laptop Computers</g:google_product_category>
+      <g:price>1099.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <link>https://electronics-store.com/macbook-air-13-m3</link>
+      <g:image_link>https://images.store.com/macbookair13.jpg</g:image_link>
+      <g:mpn>MRYN3LL/A</g:mpn>
+      <g:gtin>0195949112737</g:gtin>
+      <g:color>Midnight</g:color>
+      <g:size>13-inch</g:size>
+      <g:weight>1.24kg</g:weight>
+      <g:custom_label_0>Standard</g:custom_label_0>
+    </item>
+    
+    <item>
+      <g:id>SM001</g:id>
+      <title>Galaxy S24 Ultra 256GB</title>
+      <description>Premium Android smartphone with S Pen and 200MP camera. Features titanium frame and AI-powered photography.</description>
+      <g:brand>Samsung</g:brand>
+      <g:product_type>Mobile Phones</g:product_type>
+      <g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phones</g:google_product_category>
+      <g:price>1199.00 USD</g:price>
+      <g:sale_price>1099.00 USD</g:sale_price>
+      <g:sale_price_effective_date>2025-06-30T00:00-0800/2025-07-30T23:59-0800</g:sale_price_effective_date>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <link>https://electronics-store.com/galaxy-s24-ultra-256gb</link>
+      <g:image_link>https://images.store.com/galaxys24ultra.jpg</g:image_link>
+      <g:mpn>SM-S928UZKAXAA</g:mpn>
+      <g:gtin>8806095048123</g:gtin>
+      <g:color>Titanium Black</g:color>
+      <g:size>256GB</g:size>
+      <g:weight>232g</g:weight>
+      <g:custom_label_0>Premium</g:custom_label_0>
+    </item>
+    
+    <item>
+      <g:id>SM002</g:id>
+      <title>Galaxy Buds2 Pro</title>
+      <description>High-quality wireless earbuds with intelligent ANC and 360 Audio. Comfortable fit for all-day wear.</description>
+      <g:brand>Samsung</g:brand>
+      <g:product_type>Audio</g:product_type>
+      <g:google_product_category>Electronics &gt; Audio &gt; Audio Players &amp; Recorders &gt; Headphones</g:google_product_category>
+      <g:price>229.00 USD</g:price>
+      <g:sale_price>199.00 USD</g:sale_price>
+      <g:sale_price_effective_date>2025-07-15T00:00-0800/2025-08-15T23:59-0800</g:sale_price_effective_date>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <link>https://electronics-store.com/galaxy-buds2-pro</link>
+      <g:image_link>https://images.store.com/galaxybuds2pro.jpg</g:image_link>
+      <g:mpn>SM-R510NZWAXAR</g:mpn>
+      <g:gtin>8806094458329</g:gtin>
+      <g:color>White</g:color>
+      <g:weight>5.5g</g:weight>
+      <g:custom_label_0>Premium</g:custom_label_0>
+    </item>
+    
+    <item>
+      <g:id>SM003</g:id>
+      <title>Galaxy Watch6 Classic 47mm</title>
+      <description>Premium smartwatch with rotating bezel and comprehensive health tracking. Compatible with Android devices.</description>
+      <g:brand>Samsung</g:brand>
+      <g:product_type>Wearables</g:product_type>
+      <g:google_product_category>Electronics &gt; Wearable Technology &gt; Smartwatches</g:google_product_category>
+      <g:price>399.00 USD</g:price>
+      <g:sale_price>349.00 USD</g:sale_price>
+      <g:sale_price_effective_date>2025-07-01T00:00-0800/2025-07-31T23:59-0800</g:sale_price_effective_date>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <link>https://electronics-store.com/galaxy-watch6-classic-47mm</link>
+      <g:image_link>https://images.store.com/galaxywatch6.jpg</g:image_link>
+      <g:mpn>SM-R960NZKAXAR</g:mpn>
+      <g:gtin>8806095048741</g:gtin>
+      <g:color>Black</g:color>
+      <g:size>47mm</g:size>
+      <g:weight>52g</g:weight>
+      <g:custom_label_0>Premium</g:custom_label_0>
+    </item>
+    
+    <item>
+      <g:id>SM004</g:id>
+      <title>32-inch Odyssey G7 Gaming Monitor</title>
+      <description>High-performance curved gaming monitor with 240Hz refresh rate and 1ms response time. QLED technology.</description>
+      <g:brand>Samsung</g:brand>
+      <g:product_type>Monitors</g:product_type>
+      <g:google_product_category>Electronics &gt; Computers &gt; Computer Components &gt; Computer Monitors</g:google_product_category>
+      <g:price>599.00 USD</g:price>
+      <g:sale_price>549.00 USD</g:sale_price>
+      <g:sale_price_effective_date>2025-06-25T00:00-0800/2025-07-25T23:59-0800</g:sale_price_effective_date>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <link>https://electronics-store.com/odyssey-g7-32-gaming-monitor</link>
+      <g:image_link>https://images.store.com/odysseyg7.jpg</g:image_link>
+      <g:mpn>LC32G75TQSNXZA</g:mpn>
+      <g:gtin>8806094669619</g:gtin>
+      <g:color>Black</g:color>
+      <g:size>32-inch</g:size>
+      <g:weight>6.2kg</g:weight>
+      <g:custom_label_0>Gaming</g:custom_label_0>
+    </item>
+    
+    <item>
+      <g:id>SO001</g:id>
+      <title>WH-1000XM5 Wireless Headphones</title>
+      <description>Industry-leading noise canceling over-ear headphones with exceptional sound quality and 30-hour battery.</description>
+      <g:brand>Sony</g:brand>
+      <g:product_type>Audio</g:product_type>
+      <g:google_product_category>Electronics &gt; Audio &gt; Audio Players &amp; Recorders &gt; Headphones</g:google_product_category>
+      <g:price>399.00 USD</g:price>
+      <g:sale_price>349.00 USD</g:sale_price>
+      <g:sale_price_effective_date>2025-07-10T00:00-0800/2025-08-10T23:59-0800</g:sale_price_effective_date>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <link>https://electronics-store.com/wh-1000xm5-headphones</link>
+      <g:image_link>https://images.store.com/wh1000xm5.jpg</g:image_link>
+      <g:mpn>WH1000XM5/B</g:mpn>
+      <g:gtin>4548736134157</g:gtin>
+      <g:color>Black</g:color>
+      <g:weight>250g</g:weight>
+      <g:custom_label_0>Premium</g:custom_label_0>
+    </item>
+    
+    <item>
+      <g:id>SO002</g:id>
+      <title>PlayStation 5 Console</title>
+      <description>Next-generation gaming console with ultra-high speed SSD and immersive 3D audio. Includes DualSense controller.</description>
+      <g:brand>Sony</g:brand>
+      <g:product_type>Gaming</g:product_type>
+      <g:google_product_category>Electronics &gt; Video Game Console Accessories &gt; Video Game Consoles</g:google_product_category>
+      <g:price>499.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <link>https://electronics-store.com/playstation-5-console</link>
+      <g:image_link>https://images.store.com/ps5console.jpg</g:image_link>
+      <g:mpn>CFI-1215A01X</g:mpn>
+      <g:gtin>0711719560135</g:gtin>
+      <g:color>White</g:color>
+      <g:weight>4.5kg</g:weight>
+      <g:custom_label_0>Gaming</g:custom_label_0>
+    </item>
+    
+    <item>
+      <g:id>SO003</g:id>
+      <title>Alpha 7R V Mirrorless Camera</title>
+      <description>High-resolution full-frame mirrorless camera with 61MP sensor and advanced autofocus system.</description>
+      <g:brand>Sony</g:brand>
+      <g:product_type>Cameras</g:product_type>
+      <g:google_product_category>Electronics &gt; Cameras &amp; Optics &gt; Cameras &gt; Digital Cameras</g:google_product_category>
+      <g:price>3899.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <link>https://electronics-store.com/alpha-7r-v-camera</link>
+      <g:image_link>https://images.store.com/alpha7rv.jpg</g:image_link>
+      <g:mpn>ILCE7RM5/B</g:mpn>
+      <g:gtin>4548736139459</g:gtin>
+      <g:color>Black</g:color>
+      <g:weight>665g</g:weight>
+      <g:custom_label_0>Professional</g:custom_label_0>
+    </item>
+    
+  </channel>
+</rss>
